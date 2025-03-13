@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nijosyula/Library/CloudStorage/OneDrive-Copart,Inc/nijosyula/Personal/SASTRA_MCA/Sem1/NumericalMethods/Programs/guassmethod1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _printMatrix, symObjAddr: 0x0, symBinAddr: 0x1000037E0, symSize: 0xE4 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _printMatrix, symObjAddr: 0x0, symBinAddr: 0x1000037E0, symSize: 0xE4 }
+  - { offsetInCU: 0x8F, offset: 0x8F, size: 0x8, addend: 0x0, symName: _gaussElimination, symObjAddr: 0xE4, symBinAddr: 0x1000038C4, symSize: 0x1E0 }
+  - { offsetInCU: 0xF9, offset: 0xF9, size: 0x8, addend: 0x0, symName: _backSubstitution, symObjAddr: 0x2C4, symBinAddr: 0x100003AA4, symSize: 0x1B4 }
+  - { offsetInCU: 0x155, offset: 0x155, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x478, symBinAddr: 0x100003C58, symSize: 0x1EC }
+...
